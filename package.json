@@ -48,6 +48,6 @@
     "test": "test"
   },
   "dependencies": {
-    "@adobe/fetch": "^3.1.4"
+    "@adobe/fetch": "^4.0.0"
   }
 }
